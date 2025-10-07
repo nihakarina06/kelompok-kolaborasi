@@ -3,4 +3,7 @@ Repository ini digunakan untuk latihan kolaborasi
 menggunakan Git dan GitHub.   
 
 #Anggota Kelompok
--Niha Karina Azaahra (Anggota 1)   
+
+-Niha Karina Azzahra (Anggota 1)  
+
+-Azira Zahra Indriagiri(Anggota 2) 
