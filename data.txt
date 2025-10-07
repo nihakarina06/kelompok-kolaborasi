@@ -1,1 +1,2 @@
 kelompok-kolaborasi
+[niha] Saya sudah membuat file readme.md dan data.txt,lalu sudah mengajak kolaborasi kepada teman saya. 
