@@ -1,2 +1,4 @@
 kelompok-kolaborasi
-[niha] Saya sudah membuat file readme.md dan data.txt,lalu sudah mengajak kolaborasi kepada teman saya. 
+[niha] Saya sudah membuat file readme.md dan data.txt,lalu sudah mengajak kolaborasi kepada teman saya.
+
+[azira]Saya sudah menerima  kolaborasi dan menambahkan text pada data.txt dan menambahkan nama saya pada README.md
